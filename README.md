@@ -1,1 +1,1 @@
-# Practical Python Daily - Getting Started
+# Practical Python Daily
